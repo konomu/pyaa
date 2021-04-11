@@ -1,5 +1,5 @@
 # Introducing pyaa!
-A thirty key steno keyboard powered by QMK firmware. 
+A thirty key steno keyboard powered by QMK firmware and Plover.
 
 ## How do I build it?
 To build pyaa, all you need is the following:
@@ -21,3 +21,8 @@ There are many other steno keyboards out there, all of which allow you to input 
 With my design, I decided to focus on a few main things: accessibility, ergonomics, and a functional yet aesthetically pleasing form. All finger keys on pyaa are positioned "sideways" which allows me to use the narrow width of the key and slightly reduce the horizontal spacing. This results in a layout with functional key spacing that is highly accurate to real life lever shorthand machines. I've also introduced some columnar stagger and tilted the thumb keys a teeny bit outwards, just to make it more comfortable.
 
 Finally, the PCB uses what is known as direct pin matrix, where each key is connected to an I/O pin on the microcontroller and ground. This makes it so that soldering diodes onto the pcb is not necessary as with other keyboards, reducing cost slightly. N-key rollover functionality, which is crucial for stenography, is left intact.
+
+## Images
+![pyaa](https://raw.githubusercontent.com/konomu/pyaa/main/IMG_6998.jpg)
+![PCB](https://raw.githubusercontent.com/konomu/pyaa/main/pyaa.jpg)
+![scale](https://raw.githubusercontent.com/konomu/pyaa/main/scale.jpg)
