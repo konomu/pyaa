@@ -23,6 +23,6 @@ With my design, I decided to focus on a few main things: accessibility, ergonomi
 The PCB uses what is known as direct pin matrix, where each key is connected to an I/O pin on the microcontroller and ground. This makes it so that soldering diodes onto the pcb is not necessary as with other keyboards, reducing cost slightly. N-key rollover functionality, which is crucial for stenography, is left intact.
 
 ## Images
-![pyaa](https://raw.githubusercontent.com/konomu/pyaa/main/IMG_6998.jpg)
-![PCB](https://raw.githubusercontent.com/konomu/pyaa/main/pyaa.jpg)
-![scale](https://raw.githubusercontent.com/konomu/pyaa/main/scale.jpg)
+![pyaa](https://raw.githubusercontent.com/konomu/pyaa/main/pictures/pyaaimage.jpg)
+![PCB](https://raw.githubusercontent.com/konomu/pyaa/main/pictures/pyaaboard.jpg)
+![scale](https://raw.githubusercontent.com/konomu/pyaa/main/pictures/scale.jpg)
