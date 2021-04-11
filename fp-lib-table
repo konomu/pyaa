@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/fp/Keebio-Parts.pretty-master)(options "")(descr ""))
+  (lib (name Lily58-footprint)(type KiCad)(uri ${KIPRJMOD}/fp/Lily58-footprint.pretty)(options "")(descr ""))
+  (lib (name switches)(type KiCad)(uri ${KIPRJMOD}/fp/switches.pretty)(options "")(descr ""))
+)
