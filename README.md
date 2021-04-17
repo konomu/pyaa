@@ -13,7 +13,7 @@ To build pyaa, all you need is the following:
 And keep in mind, you need a TRRS cable and a USB cable to use it. Once you have finished building it, you must flash the firmware onto the keyboard with QMK.
 
 ## How do I use it?
-pyaa is powered by QMK firmware (firmware will be ready soon, not yet uploaded) and takes advantage of its stenography, combo, and direct pin implementations. It functions along with [Plover](https://github.com/openstenoproject/plover), a desktop application developed as a part of the [Open Steno Project](http://www.openstenoproject.org/). 
+pyaa is powered by QMK firmware and takes advantage of its stenography, combo, and direct pin implementations. Its firmware is available [here](https://github.com/konomu/qmk_firmware/tree/pyaa/keyboards/pyaa). It functions along with [Plover](https://github.com/openstenoproject/plover), a desktop application developed as a part of the [Open Steno Project](http://www.openstenoproject.org/). 
 
 ## About
 There are many other steno keyboards out there, all of which allow you to input text at speeds upwards of 200 words per minute with the magic of Plover! (and of course, a bit of practice) In fact, pyaa is heavily inspired by Georgi, which was developed by g Heavy Industries' Jane Bernhardt and is available at [gboards](https://www.gboards.ca/product/georgi). Other options for steno keyboards can be found on [Plover's wiki](https://github.com/openstenoproject/plover/wiki/Supported-Hardware).
