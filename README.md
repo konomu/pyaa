@@ -21,3 +21,5 @@ There are many other steno keyboards out there, all of which allow you to input 
 The PCB uses what is known as direct pin matrix, where each key is connected to an I/O pin on the microcontroller and ground. This makes it so that soldering diodes onto the pcb is not necessary as with other keyboards, reducing cost slightly. N-key rollover functionality, which is crucial for stenography, is left intact.
 
 ## Images
+
+![image of board](pyaaimage.png "pyaa")
