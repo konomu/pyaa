@@ -22,4 +22,4 @@ The PCB uses what is known as direct pin matrix, where each key is connected to 
 
 ## Images
 
-![image of board](pyaaimage.png "pyaa")
+![image of board](./pictures/pyaaimage.png "pyaa")
