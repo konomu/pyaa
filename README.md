@@ -6,7 +6,7 @@ To build pyaa, all you need is the following:
 * PCB (two halves)
 * 30 Kailh Choc switches (PG1350)
 * 2 Pro Micros (or its derivatives)
-  * **Important:** Notices that the Pro Micro's USB must face towards the board on both halves. See the image for reference.
+  * **Important:** Notices that the Pro Micro's USB must face towards the board on both halves.
 * 2 TRRS jacks (MJ-4PP-9 or PJ-320A) 
 * and optionally, 2 reset switches (TVBP06)
 
